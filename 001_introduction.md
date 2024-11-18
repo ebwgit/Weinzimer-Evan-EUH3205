@@ -4,6 +4,7 @@ title: Scramble for Africa
 number: 1
 ---
 # Introduction
+European Colonialism in Africa
 
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'Rhodes_Colossus'" %}
 {% include media.html pages=media %}
