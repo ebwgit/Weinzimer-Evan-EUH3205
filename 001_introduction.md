@@ -9,7 +9,7 @@ This is where you introduce your project to your audience. You should summarize 
 
 The following is sample text to show the capabilities of presenting text with various formatting (such as bold), different languages, adding footnotes, and images.[^1]
 
-{% assign media = site.media_metadata | where_exp: "item", "item.name == 'Punch_Rhodes_Colossus.md'" %}
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'RhodeColossus.md'" %}
 {% include media.html pages=media %}
 
 
