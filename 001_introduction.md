@@ -6,7 +6,7 @@ number: 1
 # Introduction
 European Colonialism in Africa
 
-{% assign media = site.media_metadata | where_exp: "item", "item.name == 'Rhodes_Colossus'" %}
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'BerlinConference'" %}
 {% include media.html pages=media %}
 
 
