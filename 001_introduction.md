@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Scramble for Africa
+title: Introduction 
 number: 1
 ---
 # Introduction
