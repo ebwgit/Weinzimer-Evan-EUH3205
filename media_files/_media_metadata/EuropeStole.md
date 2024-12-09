@@ -8,6 +8,6 @@ creator: Johnny Harris
 _date: 2022
 source: YouTube
 
-_path: https://youtu.be/LjieOlWXwTw?si=uxFoJIZsDtqSRRNK
+_path: https://youtu.be/LjieOlWXwTw?si=uxFoJIZsDtqSRRNK](https://www.youtube.com/embed/LjieOlWXwTw?si=YqGUoWF4jBrd9r-7
 layout: media_description
 ---
