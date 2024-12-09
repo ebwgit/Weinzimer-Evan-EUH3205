@@ -1,7 +1,6 @@
 ---
 name: EuropeStole
 media_type: video
-
 _title:How Europe Stole Africa so Quickly, Mapped
 description: Video on Scramble for Africa 
 creator: Johnny Harris
