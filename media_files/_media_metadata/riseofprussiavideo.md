@@ -3,7 +3,7 @@ name: RiseOfPrussia
 media_type: video
 
 _title: Ten Minute History - Frederick the Great and the Rise of Prussia
-description: Short video explaining the rise of Prussia
+description: Documentary on African Independence
 creator: History Matters
 _date: 2019
 source: YouTube
