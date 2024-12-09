@@ -48,15 +48,14 @@ number: 2
 
 
 
-# Embedding a Single Image
+# Footnotes 
+**Analysis Three**
+The Editors of Encyclopaedia Britannica. 2024. “Belgian Congo | History & Facts.” Encyclopedia Britannica. November 13, 2024. https://www.britannica.com/place/Belgian-Congo. 
 
-{% assign media = site.media_metadata | where_exp: "item", "item.name == 'PrussianInfantryHohenfriedberg'" %}
-{% include media.html pages=media %}
+Appiah, Anthony, and Henry Louis Gates. 2010. Encyclopedia of Africa. Oxford University Press eBooks. https://doi.org/10.1093/acref/9780195337709.001.0001. 
 
-# Embedding a Single Video
-{% assign media = site.media_metadata | where_exp: "item", "item.name == 'RiseOfPrussia'" %}
-{% include media.html pages=media %}
+ENR/PAZ // University Communications: Web // University of Notre Dame. 2016. “The Three Lives of the Casement Report:  Its Impact on Official Reactions and Popular Opinion in Belgium  // Articles // Breac // University of Notre Dame.” April 1, 2016. https://breac.nd.edu/articles/the-three-lives-of-the-casement-report-its-impact-on-official-reactions-and-popular-opinion-in-belgium/. 
 
-# Linking to a PDF File
+“The Free State of the Congo, a Hidden History of Genocide - Col·Leccio Marull.” 2016. Col·Leccio Marull. January 22, 2016. https://ajuntament.barcelona.cat/gabinetpostal/lestat-lliure-del-congo-un-genocidi-a-lombra/?lang=en. 
 
-[Download PDF file]({{ site.baseurl }}/media_files/pdfs/newspaper1942.pdf)
+
