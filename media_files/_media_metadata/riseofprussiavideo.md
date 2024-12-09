@@ -1,5 +1,5 @@
 ---
-name: RiseOfPrussia
+name: AfricaInd
 media_type: video
 
 _title: Ten Minute History - Frederick the Great and the Rise of Prussia
