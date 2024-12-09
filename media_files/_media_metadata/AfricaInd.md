@@ -1,8 +1,8 @@
 ---
 name: AfricaInd
-media_type: video
-_title: Africa: States of independence, The scramble for Africa
-description: Short video explaining the rise of Prussia
+media_type:  video
+_title: Africa: States of independence The scramble for Africa
+description: Documentary on African Independence and Colonialism
 creator: Al Jazeera English
 _date: 2010
 source: YouTube
