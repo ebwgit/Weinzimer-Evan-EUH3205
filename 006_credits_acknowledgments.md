@@ -8,11 +8,11 @@ number: 6
 
 Introduction, Website by Evan Weinzimer
 
-Analysis One of the Belgian Colonialism in The Congo by Brett Biddle 
+Analysis One of French Colonialism in Africa by Jackson McCarthy
 
-Analysis Two of French Colonialism in Africa by Jackson McCarthy
+Analysis Two of British Colonialism in Africa by Reilly Jordan
 
-Analysis Three of British Colonialism in Africa by Reilly Jordan
+Analysis Three of the Belgian Colonialism in The Congo by Brett Biddle 
 
 Conclusion, Timeline, Supplementary Materials, by Valentina Salazar
 
