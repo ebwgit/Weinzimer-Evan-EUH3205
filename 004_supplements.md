@@ -23,3 +23,6 @@ Place your links here to websites that have information about your topic.
 
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'AfricaInd'" %}
 {% include media.html pages=media %}
+
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'AfricaDecolonize'" %}
+{% include media.html pages=media %}
