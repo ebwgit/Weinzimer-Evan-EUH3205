@@ -18,6 +18,7 @@ Place your links here to websites that have information about your topic.
 
 # Supplementary Media Files
 
-https://youtu.be/LjieOlWXwTw?si=uxFoJIZsDtqSRRNK
-
-https://youtu.be/CgzSnZidGuU?si=f6tQ5ZD1xbjV8aeZ
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'EuropeStole'" %}
+{% include media.html pages=media %}
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'AfricaInd'" %}
+{% include media.html pages=media %}
