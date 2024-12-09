@@ -50,6 +50,7 @@ number: 2
 
 # Footnotes 
 **Analysis Three**
+
 The Editors of Encyclopaedia Britannica. 2024. “Belgian Congo | History & Facts.” Encyclopedia Britannica. November 13, 2024. https://www.britannica.com/place/Belgian-Congo. 
 
 Appiah, Anthony, and Henry Louis Gates. 2010. Encyclopedia of Africa. Oxford University Press eBooks. https://doi.org/10.1093/acref/9780195337709.001.0001. 
