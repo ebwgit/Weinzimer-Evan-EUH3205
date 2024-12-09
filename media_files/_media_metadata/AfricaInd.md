@@ -1,12 +1,13 @@
 ---
 name: AfricaInd
-media_type:  video
-_title: Africa: States of independence The scramble for Africa
-description: Documentary on African Independence and Colonialism
+media_type: video
+
+_title: Africa: States of independence - the scramble for Africa
+description: Documentary on African Independence
 creator: Al Jazeera English
 _date: 2010
 source: YouTube
 
-_path: [https://youtu.be/CgzSnZidGuU?si=f6tQ5ZD1xbjV8aeZ](https://www.youtube.com/embed/CgzSnZidGuU?si=X9UtLmNud29R0jRT)
+_path: https://www.youtube.com/embed/CgzSnZidGuU?si=2IctRXXwcG5vH4Ph&amp;controls=0
 layout: media_description
 ---
