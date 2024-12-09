@@ -18,4 +18,6 @@ Place your links here to websites that have information about your topic.
 
 # Supplementary Media Files
 
-Insert videos or images here.
+https://youtu.be/LjieOlWXwTw?si=uxFoJIZsDtqSRRNK
+
+https://youtu.be/CgzSnZidGuU?si=f6tQ5ZD1xbjV8aeZ
