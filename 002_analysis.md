@@ -70,7 +70,18 @@ https://sharinghistory.museumwnf.org/database_item.php?id=object;awe;tn;53;en
 5. The Editors of Encyclopedia Britannica. 2024. “Western Africa – Decolonization and the Regaining of Independence” Encyclopedia Britannica. November 14, 2024.
 https://www.britannica.com/place/western-Africa/Decolonization-and-the-regaining-of-independence
 
-6. Sanchez, Danielle Porter. “‘African Opinions’ at the Brazzaville Conference: Evolué Politics, Representation, and the Future of French Colonialism in Africa.” History in Africa 50 (2023): 126–54. https://doi.org/10.1017/hia.2023.15. 
+6. Sanchez, Danielle Porter. “‘African Opinions’ at the Brazzaville Conference: Evolué Politics, Representation, and the Future of French Colonialism in Africa.” History in Africa 50 (2023): 126–54. https://doi.org/10.1017/hia.2023.15.
+
+**Analysis Two**
+1. Nel, Andreis. “British Occupation of the Cape.” Encyclopædia Britannica, December 5, 2024. https://www.britannica.com/place/South-Africa/British-occupation-of-the-Cape.
+  
+2. “History of Diamonds: Shimansky.” SHIMANSKY.CO.ZA. Accessed December 7, 2024. https://www.shimansky.co.za/pages/discover-about-diamonds-history#:~:text=The%20first%20diamond%20discoveries%20in,he%20lived%20with%20his%20family
+
+3. Kirk, Jason, Joaquin Ruiz, John Chesley, and Spencer Titley. “The Origin of Gold in South Africa | American Scientist.” The Origin of Gold in South Africa. Accessed December 7, 2024. https://www.americanscientist.org/article/the-origin-of-gold-in-south-africa.
+
+4. “Suez Canal ‑ Crisis, Location & Egypt.” History.com. Accessed December 7, 2024. https://www.history.com/topics/africa/suez-canal.
+
+5. “Constantinople Convention.” SCA - Constantinople Convention. Accessed December 7, 2024. https://www.suezcanal.gov.eg/English/About/CanalTreatiesAndDecrees/Pages/ConstantinopleConvention.aspx.
 
 **Analysis Three**
 
